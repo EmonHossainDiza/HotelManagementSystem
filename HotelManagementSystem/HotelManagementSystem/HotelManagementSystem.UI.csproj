@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9C4F5A5-1386-49B2-B583-8D9F9780D172}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HotelManagementSystem</RootNamespace>
+    <AssemblyName>HotelManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Booked User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Booked User.Designer.cs">
+      <DependentUpon>Booked User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Booking.Designer.cs">
+      <DependentUpon>Booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details.Designer.cs">
+      <DependentUpon>Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finance.Designer.cs">
+      <DependentUpon>Finance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_Management_SystemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Hotel_Management_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_Management_SystemDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Hotel_Management_SystemDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_Management_SystemDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Hotel_Management_SystemDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registered User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registered User.Designer.cs">
+      <DependentUpon>Registered User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Registration.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="User Booking Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Booking Update.Designer.cs">
+      <DependentUpon>User Booking Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user booking.Designer.cs">
+      <DependentUpon>user booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Update.Designer.cs">
+      <DependentUpon>User Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Booked User.resx">
+      <DependentUpon>Booked User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Booking.resx">
+      <DependentUpon>Booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details.resx">
+      <DependentUpon>Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finance.resx">
+      <DependentUpon>Finance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Hotel_Management_SystemDataSet.xsc">
+      <DependentUpon>Hotel_Management_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Hotel_Management_SystemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet.xss">
+      <DependentUpon>Hotel_Management_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet1.xsc">
+      <DependentUpon>Hotel_Management_SystemDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Hotel_Management_SystemDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet1.xss">
+      <DependentUpon>Hotel_Management_SystemDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet2.xsc">
+      <DependentUpon>Hotel_Management_SystemDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Hotel_Management_SystemDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Hotel_Management_SystemDataSet2.xss">
+      <DependentUpon>Hotel_Management_SystemDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Registration.dbml.layout">
+      <DependentUpon>Registration.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Registered User.resx">
+      <DependentUpon>Registered User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Booking Update.resx">
+      <DependentUpon>User Booking Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user booking.resx">
+      <DependentUpon>user booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Update.resx">
+      <DependentUpon>User Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Registration.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Registration1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\register-icon-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon-Edit-Reservations.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27IC-15-3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register-icon-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_reservations.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nophonefeevalueprop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003346-glossy-black-icon-media-a-media31-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\018696-glossy-black-icon-symbols-shapes-power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register_now_button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register-here-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_93287273_CvsaIfOdUKesWR9tHPRa3lJRDw6cpzVs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w10-ms-account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w10-ms-account.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register_now_button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\step1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mbs_singapore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ads.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_key-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aqXWD.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SDFWE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1606959-2931x2096-home_sweet_home_by_alessia_izzo-d6t4f04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adas1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asda1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-with-cogwheels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-with-cogwheels1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speech-bubble-oval-shape-with-text-lines %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-button %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-with-cogwheels %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speech-bubble-oval-shape-with-text-lines %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

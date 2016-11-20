@@ -1,0 +1,1 @@
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config

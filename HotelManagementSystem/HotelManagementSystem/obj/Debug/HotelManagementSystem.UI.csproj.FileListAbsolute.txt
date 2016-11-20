@@ -1,0 +1,187 @@
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+H:\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+H:\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+H:\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+G:\AIUB\visual studio projects\HotelManagementSystemUsingMetroModern\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+D:\my practice\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booked_User.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registered_User.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Update.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.test.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Finance.resources
+D:\my practice\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.user_booking.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booked_User.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Finance.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registered_User.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.test.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.user_booking.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Update.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+D:\my practice\HotelManagementSystem (2)\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Booking_Update.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booked_User.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Finance.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registered_User.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Booking_Update.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.user_booking.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Update.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+G:\AIUB\visual studio projects\New Folder\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booked_User.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Finance.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registered_User.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Booking_Update.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.user_booking.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Update.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
+C:\Users\EMON_\Downloads\Compressed\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csprojResolveAssemblyReference.cache
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admin.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booked_User.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Booking.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Details.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Finance.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LogIn.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registered_User.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Registration.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Booking_Update.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.user_booking.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Update.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User.resources
+C:\Users\Rumi\Downloads\Compressed\HotelManagementSystem final update\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.UI.csproj.GenerateResource.Cache
